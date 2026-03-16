@@ -1,0 +1,2 @@
+skill load("group_parts_by_schematic.il")
+skill group_parts
